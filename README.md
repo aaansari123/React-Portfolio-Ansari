@@ -10,7 +10,7 @@
 - from there click any of the links to see the desired content
 
  ## Link
-  [Deployed app](https://evening-gorge-84272.herokuapp.com/)
+  [Deployed app](https://aaansari123.github.io/React-Portfolio-Ansari/)
 
 ## Credits
 - credit to the class repo examples on which this is heavily based
