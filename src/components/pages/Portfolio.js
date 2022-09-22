@@ -1,24 +1,49 @@
 import React from 'react';
-
+import '../../assets/style.css'
 export default function Portfolio() {
   return (
-    <div>
-      <h1>Blog Page</h1>
-      <p>
-        Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-        Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-        dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
-        sodales volutpat et, hendrerit ut dolor. Suspendisse porta dictum nunc,
-        sed pretium risus rutrum eget. Nam consequat, ligula in faucibus
-        vestibulum, nisi justo laoreet risus, luctus luctus mi lacus sit amet
-        libero. Class aptent taciti sociosqu ad litora torquent per conubia
-        nostra, per inceptos himenaeos. Mauris pretium condimentum tellus eget
-        lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-        Donec placerat accumsan mi, ut congue neque placerat eu. Donec nec ipsum
-        in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
-        bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
-        est ligula suscipit velit, sed bibendum turpis dui in sapien.
-      </p>
+    <section class="page-section" id="work">
+    <h2>Work</h2>
+    <div class="flex-container">
+
+      <a href="https://aaansari123.github.io/Anime-List/" class="flex-item anime-list">
+        <div>
+          <h3>Anime Finder</h3>
+          <span>HTML/CSS/Javascript</span>
+        </div>
+      </a>
+      
+      <a href="https://vast-temple-92235.herokuapp.com/" class="flex-item project-2">
+        <div>
+          <h3>Campaign manager</h3>
+          <span>Node/Javascript/Handlebars</span>
+          <span></span>
+        </div>
+      </a>
+      <a href="#" class="flex-item project-3">
+        <div>
+          <h3>Project 3</h3>
+          <span></span>
+        </div>
+      </a>
+
+      <a href="#" class="flex-item project-4">
+        <div>
+          <h3>Project 4</h3>
+          <span></span>
+        </div>
+      </a>
+
+  
+      <a href="#" class="flex-item project-5">
+        <div>
+          <h3>Project 5</h3>
+          <span></span>
+        </div>
+      </a>
+
     </div>
+  </section>
+
   );
 }
