@@ -100,7 +100,9 @@ main {
   align-items: flex-end;
   text-align: right;
 }
-
+.footer{
+  text-align: center;
+}
 .hero-banner div {
   flex: 0 0 90%;
 }

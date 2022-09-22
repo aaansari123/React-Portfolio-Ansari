@@ -3,7 +3,7 @@ import '../assets/style.css'
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-
+<>
     <header >
       <h1> Asad Ansari</h1>
       <nav>
@@ -40,7 +40,8 @@ function NavTabs({ currentPage, handlePageChange }) {
         </a>
     </nav>
     </header>
-
+  
+    </>
   );
 }
 
