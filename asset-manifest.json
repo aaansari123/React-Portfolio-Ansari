@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71f4b6e1.css",
+    "main.js": "/static/js/main.c9e7e9a2.js",
+    "static/media/mountains.png": "/static/media/mountains.896d4458595225cdccc1.png",
+    "static/media/phones.png": "/static/media/phones.283048b536b0384ad262.png",
+    "static/media/robot.png": "/static/media/robot.1f594e37bd453993e631.png",
+    "static/media/laptop.png": "/static/media/laptop.7f3fcc76b14b62627a1e.png",
+    "static/media/slimbook.png": "/static/media/slimbook.ab5b570bed35db626fbe.png",
+    "index.html": "/index.html",
+    "main.71f4b6e1.css.map": "/static/css/main.71f4b6e1.css.map",
+    "main.c9e7e9a2.js.map": "/static/js/main.c9e7e9a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f4b6e1.css",
+    "static/js/main.c9e7e9a2.js"
+  ]
+}
