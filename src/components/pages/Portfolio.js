@@ -20,7 +20,7 @@ export default function Portfolio() {
           <span></span>
         </div>
       </a>
-      <a href="#" class="flex-item project-3">
+      <a href="https://gentle-depths-95732.herokuapp.com/" class="flex-item project-3">
         <div>
           <h3>Project 3</h3>
           <span></span>
