@@ -32,12 +32,16 @@ export default function PortfolioContainer() {
       {/* Here we are calling the renderPage method which will return a component  */}
       {renderPage()}
       <footer className='footer'>
-    <a 
-          href="https://github.com/aaansari123/"
-          
-        >
-         github
-        </a>
+      <section className="page-section contact" id="contact">
+
+      <div>
+        <address>
+          <a href="tel:+16102027776">610.202.7776</a>
+          <a href="mailto:asadali1029@gmail.com">asadali1029@gmail.com</a>
+          <a href="https://github.com/aaansari123">GitHub</a>
+        </address>
+      </div>
+    </section>
     </footer>
     </div>
   );

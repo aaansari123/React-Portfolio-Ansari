@@ -2,6 +2,7 @@ import React from 'react';
 import '../../assets/style.css'
 export default function About() {
   return (
+    <main class="page-wrapper">
     <section class="page-section" id="about">
     <h2>About Me</h2>
     <div>
@@ -13,5 +14,6 @@ export default function About() {
       </p>
     </div>
   </section>
+  </main>
   );
 }

@@ -222,6 +222,14 @@ main {
   color: var(--secondary);
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
 /* portfolio project images */
 .anime-list {
   background-image: url("../assets/images/laptop.png");
