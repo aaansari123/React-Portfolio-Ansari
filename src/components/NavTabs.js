@@ -15,7 +15,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           About
         </a>
         <a
-          href="https://docs.google.com/document/d/12NktFO0frkjEjm58jKEAhNgXJrHTbkghLlqQeD8wbqA/edit?usp=sharing"
+          href="https://docs.google.com/document/d/1MGmUize6ZgfE8N3gg2drcsKTfqoYhiCyB-ItJPdNPRA/edit?usp=sharing"
           onClick={() => handlePageChange('Resume')}
           className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
         >
