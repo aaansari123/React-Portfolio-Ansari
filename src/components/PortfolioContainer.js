@@ -39,6 +39,7 @@ export default function PortfolioContainer() {
           <a href="tel:+16102027776">610.202.7776</a>
           <a href="mailto:asadali1029@gmail.com">asadali1029@gmail.com</a>
           <a href="https://github.com/aaansari123">GitHub</a>
+          <a href="https://www.linkedin.com/in/asad-ansari-b21053230/">LinkedIn</a>
         </address>
       </div>
     </section>
