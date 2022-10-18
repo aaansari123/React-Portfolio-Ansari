@@ -8,6 +8,8 @@ export default function About() {
     <div>
       <p>
         Hi! My name is Asad Ansari. I am currently 24 years old and live in Upper Darby, PA. I graduated from Drexel in 2019 with a degree in math and philosophy. After that I went to law school and completed my first two years of law school at Temple Law. Currently I am on a leave of absence from law school and am exploring a career shift into the sofware field!
+        To this end I completed the Penn LPS Full Stack coding bootcamp. There I focused on gaining technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node.js, MySQL, MongoDB, Express, Handelbars.js, and ReactJS. I look forward to using these skills and expand them further in the workplace.
+
       </p>
       <p>
         
