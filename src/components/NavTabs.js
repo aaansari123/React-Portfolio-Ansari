@@ -1,5 +1,6 @@
 import React from 'react';
 import '../assets/style.css'
+import Resume from '../assets/resume.pdf'
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
@@ -15,7 +16,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           About
         </a>
         <a
-          href="https://docs.google.com/document/d/1MGmUize6ZgfE8N3gg2drcsKTfqoYhiCyB-ItJPdNPRA/edit?usp=sharing"
+          href= {Resume}
           onClick={() => handlePageChange('Resume')}
           className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
         >
