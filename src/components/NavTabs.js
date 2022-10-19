@@ -32,13 +32,13 @@ function NavTabs({ currentPage, handlePageChange }) {
         </a>
 
 
-        <a
+        {/* <a
           href="#contact"
           onClick={() => handlePageChange('Contact')}
           className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
         >
           Contact
-        </a>
+        </a> */}
     </nav>
     </header>
   
