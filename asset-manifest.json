@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/React-Portfolio-Ansari/static/css/main.2e8b078c.css",
-    "main.js": "/React-Portfolio-Ansari/static/js/main.013d736e.js",
+    "main.js": "/React-Portfolio-Ansari/static/js/main.7ce17a76.js",
     "static/media/mountains.png": "/React-Portfolio-Ansari/static/media/mountains.896d4458595225cdccc1.png",
-    "static/media/resume.pdf": "/React-Portfolio-Ansari/static/media/resume.7d524b32b8c6e2352c08.pdf",
     "static/media/phones.png": "/React-Portfolio-Ansari/static/media/phones.283048b536b0384ad262.png",
+    "static/media/resume.pdf": "/React-Portfolio-Ansari/static/media/resume.473a63181f967deeac66.pdf",
     "static/media/robot.png": "/React-Portfolio-Ansari/static/media/robot.1f594e37bd453993e631.png",
     "static/media/laptop.png": "/React-Portfolio-Ansari/static/media/laptop.7f3fcc76b14b62627a1e.png",
     "static/media/slimbook.png": "/React-Portfolio-Ansari/static/media/slimbook.ab5b570bed35db626fbe.png",
     "index.html": "/React-Portfolio-Ansari/index.html",
     "main.2e8b078c.css.map": "/React-Portfolio-Ansari/static/css/main.2e8b078c.css.map",
-    "main.013d736e.js.map": "/React-Portfolio-Ansari/static/js/main.013d736e.js.map"
+    "main.7ce17a76.js.map": "/React-Portfolio-Ansari/static/js/main.7ce17a76.js.map"
   },
   "entrypoints": [
     "static/css/main.2e8b078c.css",
-    "static/js/main.013d736e.js"
+    "static/js/main.7ce17a76.js"
   ]
 }
